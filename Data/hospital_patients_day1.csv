@@ -1,0 +1,13 @@
+patient_id,name,age,department,admission_date,status
+H0001,Arjun Sharma,59,Neurology,2026-07-06,Admitted
+H0002,Amit Singh,11,Neurology,2026-07-06,Discharged
+H0003,Pooja Joshi,47,Neurology,2026-07-06,Admitted
+H0004,Neha Verma,6,Orthopedics,2026-07-06,Discharged
+H0005,Priya Nair,13,General Medicine,2026-07-06,Discharged
+H0006,Meera Iyer,21,Pediatrics,2026-07-06,Discharged
+H0007,Sneha Reddy,83,Cardiology,2026-07-06,Under Observation
+H0008,Rahul Gupta,69,Orthopedics,2026-07-06,Admitted
+H0009,Meera Singh,35,Neurology,2026-07-06,Admitted
+H0010,Rahul Iyer,8,Orthopedics,2026-07-06,Admitted
+H0011,Arjun Iyer,52,Pediatrics,2026-07-06,Admitted
+H0012,Sneha Joshi,41,Orthopedics,2026-07-06,Under Observation

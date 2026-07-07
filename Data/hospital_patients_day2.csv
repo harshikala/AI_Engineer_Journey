@@ -1,0 +1,11 @@
+patient_id,name,age,department,admission_date,status
+H0008,Meera Singh,83,General Medicine,2026-07-07,Admitted
+H0009,Vikram Gupta,32,Neurology,2026-07-07,Under Observation
+H0010,Vikram Joshi,55,Neurology,2026-07-07,Discharged
+H0011,Anjali Nair,18,Neurology,2026-07-07,Discharged
+H0012,Priya Sharma,15,Orthopedics,2026-07-07,Under Observation
+H0013,Rohan Singh,77,Cardiology,2026-07-07,Discharged
+H0014,Karan Joshi,60,Neurology,2026-07-07,Discharged
+H0015,Sanjay Sharma,15,Neurology,2026-07-07,Discharged
+H0016,Arjun Iyer,15,Pediatrics,2026-07-07,Discharged
+H0017,Rohan Mehta,1,Pediatrics,2026-07-07,Under Observation
