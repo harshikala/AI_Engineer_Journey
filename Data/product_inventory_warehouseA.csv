@@ -1,0 +1,11 @@
+product_id,product_name,category,quantity,unit_price
+P001,Wireless Mouse,Electronics,173,267.1
+P002,Bluetooth Speaker,Electronics,199,586.31
+P003,Notebook A5,Stationery,67,322.1
+P004,Ball Pen (Pack of 10),Stationery,36,1369.56
+P005,Basmati Rice 5kg,Grocery,149,219.53
+P006,Cooking Oil 1L,Grocery,118,111.98
+P007,Cotton T-Shirt,Apparel,33,476.34
+P008,Denim Jeans,Apparel,139,1223.94
+P009,Non-stick Pan,Home & Kitchen,153,437.73
+P010,LED Desk Lamp,Home & Kitchen,176,1417.58
